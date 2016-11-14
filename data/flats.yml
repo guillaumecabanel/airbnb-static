@@ -1,0 +1,39 @@
+seb:
+  owner_name: Sebastien
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
+  banner: background-paris.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  rate: 3
+romain:
+  owner_name: Romain
+  picture: card-london.jpeg
+  banner: background-london.jpg
+  owner_picture: romain.jpeg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  rate: 4
+guillaume:
+  owner_name: Guillaume
+  picture: card-nantes.jpg
+  banner: background-nantes.jpg
+  owner_picture: guillaume.jpg
+  name: Guillaume's home
+  summary: Charming house
+  city: Nantes, France
+  wifi: true
+  kitchen: true
+  television: true
+  rate: 3
+  accommodates: 2
+  bathrooms: 1
+  bed_type: Real Bed
+  bedrooms: 1
+  beds: 1
+  property_type: Apartment
+  room_type: Entire home/apt
